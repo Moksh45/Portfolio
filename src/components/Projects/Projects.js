@@ -22,7 +22,7 @@ function Projects() {
             <ProjectCard
               imgPath={Store}
               isBlog={false}
-              title="Chatify"
+              title="E-commerce"
               description="An advanced e-commerce website built with React.js, Material-UI, and Nodejs. Features include real-time product updates, secure payment processing, and user-friendly navigation. The platform supports a comprehensive shopping experience with functionalities like product reviews, image galleries, and wish lists. Additionally, it offers personalized recommendations, customer accounts, and order tracking."
               ghLink="https://github.com/Moksh45/ECOMMERCE-WEBSITE"
               demoLink="https://maa-provision-store.onrender.com/"
@@ -33,7 +33,7 @@ function Projects() {
             <ProjectCard
               imgPath={juet}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Juet-Event-Manager"
               description="A comprehensive college event manager web app built with React.js, Material-UI, and Nodejs. This platform allows users to seamlessly create, manage, and promote college events. Key features include event registration, real-time updates, attendee management, and push notifications. The app also supports image uploads, social media integration, and feedback collection to ensure a smooth and engaging event experience."
               ghLink="https://github.com/Moksh45/JUET-Event-Hub"
               demoLink="https://juet-event-hub.vercel.app/"
@@ -44,7 +44,7 @@ function Projects() {
             <ProjectCard
               imgPath={blockchain}
               isBlog={false}
-              title="Editor.io"
+              title="DocHub"
               description="A blockchain-based certificate generation and verification system built with JS, Solidity, HTML, and CSS. It ensures secure and tamper-proof certification. The system allows institutions to issue certificates, while recipients can verify their authenticity. Additional features include a user-friendly interface, transaction history, and integration with existing databases. It offers scalability and security for various certification needs."
               ghLink="https://github.com/Moksh45/DOCHUB-trial-version-2"
               demoLink="https://dochub-trial-version-2.vercel.app/"       
