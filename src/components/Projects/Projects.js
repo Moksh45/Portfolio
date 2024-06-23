@@ -45,7 +45,7 @@ function Projects() {
               imgPath={blockchain}
               isBlog={false}
               title="DocHub"
-              description="A blockchain-based certificate generation and verification system built with JS, Solidity, HTML, and CSS. It ensures secure and tamper-proof certification. The system allows institutions to issue certificates, while recipients can verify their authenticity. Additional features include a user-friendly interface, transaction history, and integration with existing databases. It offers scalability and security for various certification needs."
+              description="A blockchain-based certificate generation and verification system built using JS, Solidity, HTML, and CSS. It ensures secure and tamper-proof certification. The system allows institutions to issue certificates, while recipients can verify their authenticity. Additional features include a user-friendly interface, transaction history, and integration with existing databases. It offers scalability and security for various certification needs."
               ghLink="https://github.com/Moksh45/DOCHUB-trial-version-2"
               demoLink="https://dochub-trial-version-2.vercel.app/"       
             />
