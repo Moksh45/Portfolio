@@ -33,7 +33,7 @@ You can view a live demo of the website [here](https://portfolio-moksh45s-projec
 - **Bootstrap:** For responsive layout and components.
 - **FontAwesome:** For icons.
 - **EmailJS:** For handling contact form submissions.
-- **Netlify:** For deployment.
+- **Vercel:** For deployment.
 
 ## Installation
 
